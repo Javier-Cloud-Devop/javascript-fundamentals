@@ -29,17 +29,21 @@ This repository focuses on building core programming logic before moving into mo
 
 ## Practice Projects
 
+### Kelvin Weather Converter
+Converts temperatures from Kelvin to Celsius, Fahrenheit, and Newton using arithmetic operations and variable reassignment.
+
+### Dog Years Calculator
+Calculates dog years from human age using conditional logic and multi-step mathematical transformations.
+
 ### Race Day
-Conditional logic based on age and registration time to determine race number and start time.
+Assigns race numbers and start times based on age and registration status using boolean logic and conditional statements.
 
 ### Magic Eight Ball
 Random number generation combined with `switch` statements to simulate an 8-ball response system.
 
-### Dog Years Calculator
-Variable manipulation and arithmetic operations to convert human years into dog years.
 
-### Kelvin Weather Converter
-Temperature conversion using variables and mathematical operators.
+
+
 
 ---
 
