@@ -24,26 +24,55 @@ This repository focuses on building core programming logic before moving into mo
 - Short-circuit evaluation (`||`)
 - Ternary operator
 - `switch` statements
+- Functions (declaration, arrow functions, parameters, return values)
+- Variable scope (global vs block scope)
+- Array manipulation (`pop`, `push`, `shift`, `unshift`, `splice`)
 
 ---
 
 ## Practice Projects
 
-### Kelvin Weather Converter
+### Basics
+
+**Kelvin Weather Converter**  
 Converts temperatures from Kelvin to Celsius, Fahrenheit, and Newton using arithmetic operations and variable reassignment.
 
-### Dog Years Calculator
+**Dog Years Calculator**  
 Calculates dog years from human age using conditional logic and multi-step mathematical transformations.
 
-### Race Day
+---
+
+### Conditionals
+
+**Race Day**  
 Assigns race numbers and start times based on age and registration status using boolean logic and conditional statements.
 
-### Magic Eight Ball
+**Magic Eight Ball**  
 Random number generation combined with `switch` statements to simulate an 8-ball response system.
 
+---
 
+### Functions
 
+**Rock Paper Scissors**  
+Implements game logic using reusable functions, parameters, return values, and conditional comparisons.
 
+**Sleep Debt Calculator**  
+Uses multiple functions to calculate weekly sleep debt and compare actual versus ideal sleep hours.
+
+---
+
+### Scope
+
+**Training Days**  
+Refactored variable scope by moving `random` inside its function, declaring `days` once in function scope, and passing `name` as a parameter to prevent scoping errors and duplication.
+
+---
+
+### Arrays
+
+**Secret Message**  
+Transforms an array using pop, push, shift, unshift, and splice to dynamically modify data.
 
 ---
 
