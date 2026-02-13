@@ -27,6 +27,14 @@ This repository focuses on building core programming logic before moving into mo
 - Functions (declaration, arrow functions, parameters, return values)
 - Variable scope (global vs block scope)
 - Array manipulation (`pop`, `push`, `shift`, `unshift`, `splice`)
+- Looping with `for`, `while`, and `do...while`
+- Nested loops
+- Iterating through strings and arrays using index notation
+- Array mutation methods (`push`, `pop`, `shift`, `unshift`)
+- Non-mutating array methods (`slice`, `map`, `filter`, `find`)
+- String and array transformation patterns
+- Method chaining (`join().toUpperCase()`)
+
 
 ---
 
@@ -75,6 +83,10 @@ Refactored variable scope by moving `random` inside its function, declaring `day
 Transforms an array using pop, push, shift, unshift, and splice to dynamically modify data.
 
 ---
+
+### Loops
+
+A string transformation project where input text is translated into "whale language". Concept applied, nested 'for' loops, conditional statements, arrray building patterns. 
 
 ## Purpose
 
