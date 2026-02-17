@@ -34,6 +34,14 @@ This repository focuses on building core programming logic before moving into mo
 - Non-mutating array methods (`slice`, `map`, `filter`, `find`)
 - String and array transformation patterns
 - Method chaining (`join().toUpperCase()`)
+- Array iteration methods (`forEach`, `filter`, `map`, `findIndex`, `every`)
+- Callback functions
+- Reassigning arrays after transformation
+- String-to-array conversion (`split`)
+- Array-to-string conversion (`join`)
+- Conditional replacement inside iterators
+- Index-based array updates
+
 
 
 ---
@@ -82,11 +90,16 @@ Refactored variable scope by moving `random` inside its function, declaring `day
 **Secret Message**  
 Transforms an array using pop, push, shift, unshift, and splice to dynamically modify data.
 
+**Gramar Checker**
+Improves a paragraph by counting words, removing unnecessary terms, correcting misspellings, replacing inappropriate words, and validating word length using array iterator methods. 
+
 ---
 
 ### Loops
 
 A string transformation project where input text is translated into "whale language". Concept applied, nested 'for' loops, conditional statements, arrray building patterns. 
+
+
 
 ## Purpose
 
