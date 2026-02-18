@@ -41,7 +41,16 @@ This repository focuses on building core programming logic before moving into mo
 - Array-to-string conversion (`join`)
 - Conditional replacement inside iterators
 - Index-based array updates
-
+- Object literals (including keys with spaces)
+- Dot vs bracket notation (including dynamic keys)
+- Property assignment + delete
+- Methods (ES6 syntax) + `this`
+- Getters and setters with validation
+- Factory functions + property value shorthand
+- Destructuring (including nested)
+- for...in loop through object properties
+- Object.keys() / Object.entries()
+- Pass-by-reference mutation via function
 
 
 ---
@@ -97,7 +106,14 @@ Improves a paragraph by counting words, removing unnecessary terms, correcting m
 
 ### Loops
 
+**Whale Talk**
 A string transformation project where input text is translated into "whale language". Concept applied, nested 'for' loops, conditional statements, arrray building patterns. 
+
+### Objects
+
+**Spaceship Crew Registry**  
+Builds and manages a dynamic spaceship object using object literals, nested objects, factory functions, getters and setters, `this` keyword usage, property mutation, destructuring, and iteration with `for...in`.
+
 
 
 
